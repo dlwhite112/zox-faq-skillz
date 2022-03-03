@@ -1,15 +1,15 @@
 import "./App.css";
 import Accordion from "./components/Accordion";
-import category1 from "../src/utils/category1.json"
+import { orderingQuestions }  from "./utils/ordering"
 import Heading from "./components/Heading";
 
 function App() {
   return (
     <div>
       <h1>ZOX FAQs</h1>
-      <Heading heading="heading1" />
+      <Heading heading="Ordering" />
       <div className="accordion">
-        {category1.map(({ id, title, content }) => (
+        {orderingQuestions.map(({ id, title, content }) => (
           <Accordion key={id} title={title} content={content} />
         ))}
       </div>
