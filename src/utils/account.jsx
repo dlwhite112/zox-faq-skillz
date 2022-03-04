@@ -16,7 +16,7 @@ export const accountQuestions = [
           href="https://zox.la/pages/resubscribe"
           title="https://zox.la/pages/resubscribe"
         >
-          here.
+          here
         </a>
         .
       </p>
@@ -24,7 +24,7 @@ export const accountQuestions = [
   },
   {
     id: 2,
-    title: <h3>Why can;t I log in?</h3>,
+    title: <h3>Why can't I log in?</h3>,
     content: (
       <p>
         If you have lost or forgotten your password, don't worry, it's very easy
@@ -38,7 +38,7 @@ export const accountQuestions = [
         an account. That would mean that you did not create an account prior to
         ordering or after you ordered. That is very easy to fix as well, to
         create an account with any previous order history you will need to click{" "}
-        <a href="https://zox.la/account/register">here.</a>.<br />
+        <a href="https://zox.la/account/register">here</a>.<br />
         <br />
         <em>
           Make certain you use the same email address that you initially used
@@ -51,6 +51,8 @@ export const accountQuestions = [
   {
     id: 3,
     title: <h3>How do I change my billing information?</h3>,
-    content: <p></p>,
+    content: <p>This is done during check out, if you need to update your payment information/method. Please be sure to change it during checkout and save it for the future as this should help you check out faster.<br /><br />
+
+    <strong>This will not update your subscription information and will need to be done so under 'Manage Subscriptions'.</strong></p>,
   },
 ];
