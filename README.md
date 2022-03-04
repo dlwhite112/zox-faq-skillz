@@ -43,7 +43,7 @@ Overall the exercise was a little challenging. I could have benefited from spend
 
 
   ### License
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ### Contributing
     Dl.dev - https://github.com/dlwhite112
