@@ -32,7 +32,7 @@ In the end, I ended up curbing some of the animated transitions (ex. ease in & o
 
 As for Future Development Ideas, from a visual design standpoint, some improvements in relative spacing, white space, limiting the use of italicized text and bold text, adjusting text size. This could probably benefit my layout. Moreover, the FAQ section could benefit from sectioning those nine current categories into separate accordions sections because the FAQ is such a long section for a user to have to sift through. Assuming a user knows what their question is, it is unnecessary to display all sections and all questions at once. It could also probably increase loading times to shorten the section in general.
 
-Overall the exercise was a little challenging. I could have benefited from spending more time on the functionality aspect. You can't submit a Front-end Exercise that is not pleasing to look at. 😂👨🏿‍💻
+Overall the exercise was a little challenging. I could have benefited from spending more time on the functionality aspect. You can't submit a Front-end Exercise that is not pleasing to look at. 😂 👨🏿‍💻
 
 
 
@@ -43,14 +43,17 @@ Overall the exercise was a little challenging. I could have benefited from spend
 
 
   ### License
-    N/A
+    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ### Contributing
     Dl.dev - https://github.com/dlwhite112
 
   
   ## Screenshots
+  <img width="1792" alt="Screen Shot 2022-03-03 at 9 39 00 PM" src="https://user-images.githubusercontent.com/74333123/156695055-e879c27d-42d3-416b-96c5-4cbd736d6bcc.png">
   
+  <img width="1792" alt="Screen Shot 2022-03-03 at 9 38 25 PM" src="https://user-images.githubusercontent.com/74333123/156695101-16fda220-dc65-4332-ba56-2a625093a42b.png">
+
 
   
   ## Tools
@@ -60,7 +63,7 @@ Overall the exercise was a little challenging. I could have benefited from spend
 
   
   ## Link
-  
+  https://dlwhite112.github.io/zox-faq-skillz/
   
   
   ## Questions
